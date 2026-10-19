@@ -252,6 +252,7 @@ _Valid estimates and standard errors when regression variables come from LLM or 
 - [Undermind](https://www.undermind.ai/) - Autonomously reads hundreds of papers and produces structured reports with timelines and categories.
 - [Zotero MCP](https://github.com/54yyyu/zotero-mcp) - Connects your Zotero library to Claude, ChatGPT, Codex, and Cursor to search, read, annotate, and cite papers. ![GitHub stars](https://img.shields.io/github/stars/54yyyu/zotero-mcp?style=flat-square)
 - [Zotero PapersGPT](https://github.com/papersgpt/papersgpt-for-zotero) - Zotero AI plugin supporting ChatGPT, Claude, Gemini, and more for PDF chat and summaries. ![GitHub stars](https://img.shields.io/github/stars/papersgpt/papersgpt-for-zotero?style=flat-square)
+- [VibeAudit](https://vibeaudit.sh/) - Pre-launch security audit for AI-built apps: reads the whole repo and returns findings with file:line and a paste-ready fix prompt each. Free quick scan.
 
 ## Economic Data and Analysis
 
